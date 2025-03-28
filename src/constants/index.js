@@ -66,7 +66,7 @@ export const EDUCATIONS = [
     year: "2023 - 2024",
     degree: "Master of Science in Computer Science",
     university: "Queen Mary University of London, UK",
-    grade: `CGPA: Awaiting Results`,
+    grade: `Passed With Merit`,
     coursework: ["Logic in Computer Science", "Semi-structured Data Engineering", "Security and Authentication.", "Interactive System Design"],
   },
   {
