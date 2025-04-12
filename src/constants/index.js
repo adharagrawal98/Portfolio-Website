@@ -5,19 +5,19 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 export const EXPERIENCES = [
   {
     year: "October 2024 - Present",
-    role: "Data Analyst",
+    role: "IT Analyst",
     company: "Seagull Maritime Agencies Pvt Ltd.",
     companyWebsite: "https://uk.seagull-global.com/",
     description: ` <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>Collaborating with the team to develop and optimize the official website of Seagull Maritime Agencies Pvt. Ltd., enhancing user experience and business operations.</li>
-    <li>Building a seamless digital platform using React.js for the front-end and Node.js with MongoDB for the back-end.</li>
-    <li>Implementing authentication mechanisms to improve security and user access as part of the ongoing development.</li>
-    <li>Designing intuitive front-end interfaces to enhance usability and accessibility for users.</li>
-    <li>Streamlining data extraction, cleansing, and transformation to support accurate decision-making processes.</li>
-    <li>Managing structured data with SQL and creating visualizations and reports to inform business strategies.</li>
-    <li>Continuously improving the platform to align with business goals and meet evolving industry requirements.</li>
+    <li>Conducted internal IT audit for FY 24–25, covering walkthroughs, control design, implementation & effectiveness evaluation.</li>
+    <li>Reviewed and tested IT automated controls (ITACs) and General IT controls (GITCs), ensuring compliance with regulatory standards.</li>
+    <li>Performed Control Assurance for SOC (Type I & II) and assessed risk frameworks to support governance and rationalization.</li>
+    <li>Designed and implemented role-based access control (RBAC) to enhance IT security posture and mitigate access risks.</li>
+    <li>Collaborated cross-functionally with developers to build a client-facing website for Seagull Maritime using the MERN stack.</li>
+    <li>Enhanced digital presence by integrating secure authentication, improving user experience, and aligning with IT risk standards.</li>
+    <li>Developed real-time dashboards and audit reports using Excel, Tableau and SQL to support decision-making, KPI tracking, and foundational financial modelling activities.</li>
 </ul>`,
-    technologies: ["HTML", "Tailwind CSS ", "React.js", "Node.js", "Express", "MongoDB", "MySQL", "Excel"],
+    technologies: ["HTML", "Tailwind CSS ", "React.js", "Node.js", "Express", "MongoDB", "MySQL", "Excel", "Tableau", "General IT controls (GITCs)", "IT automated controls (ITACs)"],
   },
   {
     year: "February 2024 - August 2024",
