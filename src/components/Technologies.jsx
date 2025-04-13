@@ -20,6 +20,7 @@ import { RiTailwindCssFill } from "react-icons/ri";
 import { SiExpress } from "react-icons/si";
 import { motion, transform } from "framer-motion";
 import { SiFramer } from "react-icons/si";
+import { SiTypescript } from "react-icons/si";
 
 const iconVariants = (duration) => ({
     initial: { y: -10 },
@@ -82,6 +83,14 @@ const Technologies = () => {
                     className='p-4 text-center'>
                     <IoLogoJavascript className='text-7xl text-yellow-400' />
                     <span className='text-neutral-900 text-white'>Javascript</span>
+                </motion.div>
+                <motion.div
+                    variants={iconVariants(3)}
+                    intial="initial"
+                    animate="animate"
+                    className='p-4 text-center'>
+                    <SiTypescript className='text-7xl' />
+                    <span className='text-neutral-900 text-white'>TypeScript</span>
                 </motion.div>
                 <motion.div
                     variants={iconVariants(2.5)}
