@@ -16,7 +16,7 @@ export const EXPERIENCES = [
     <li>Enhanced digital presence by integrating secure authentication, improving user experience, and aligning with IT risk standards.</li>
     <li>Developed real-time dashboards and audit reports using Excel, Tableau and SQL to support decision-making, KPI tracking, and foundational financial modelling activities.</li>
 </ul>`,
-    technologies: ["HTML", "Tailwind CSS ", "React.js", "Node.js", "Express", "MongoDB", "MySQL", "Excel", "Tableau", "General IT controls (GITCs)", "IT automated controls (ITACs)"],
+    technologies: ["JavaScript", "TypeScript", "HTML", "Tailwind CSS ", "React.js", "Node.js", "Express", "MongoDB", "MySQL", "Excel", "Tableau", "General IT controls (GITCs)", "IT automated controls (ITACs)"],
   },
   {
     year: "February 2024 - August 2024",
@@ -30,7 +30,7 @@ export const EXPERIENCES = [
     <li>Redesigned and optimized platform styling by transitioning from traditional CSS to Tailwind CSS, achieving a 40% reduction in development time while delivering a consistent, responsive, and user-friendly interface using utility-first design principles.</li>
     <li> Established CI/CD workflows using GitHub Actions, automating deployments and ensuring consistent code quality and faster feature delivery.</li>
 </ul>`,
-    technologies: ["HTML", "Tailwind CSS ", "React.js", "Node.js", "Express", "MongoDB", "MySQL", "PayPal RESTful API Services", "Stripe RESTful API Services", "AWS S3"],
+    technologies: ["TypeScript", "HTML", "Tailwind CSS ", "React.js", "Node.js", "Express", "MongoDB", "MySQL", "PayPal RESTful API Services", "Stripe RESTful API Services", "AWS S3"],
   },
   {
     year: "June 2021 - August 2023",
