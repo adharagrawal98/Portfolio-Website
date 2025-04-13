@@ -11,7 +11,6 @@ export const EXPERIENCES = [
     description: ` <ul style="list-style-type: disc; padding-left: 20px;">
     <li>Conducted internal IT audit for FY 24–25, covering walkthroughs, control design, implementation & effectiveness evaluation.</li>
     <li>Reviewed and tested IT automated controls (ITACs) and General IT controls (GITCs), ensuring compliance with regulatory standards.</li>
-    <li>Performed Control Assurance for SOC (Type I & II) and assessed risk frameworks to support governance and rationalization.</li>
     <li>Designed and implemented role-based access control (RBAC) to enhance IT security posture and mitigate access risks.</li>
     <li>Collaborated cross-functionally with developers to build a client-facing website for Seagull Maritime using the MERN stack.</li>
     <li>Enhanced digital presence by integrating secure authentication, improving user experience, and aligning with IT risk standards.</li>
@@ -29,6 +28,7 @@ export const EXPERIENCES = [
     <li>Integrated PayPal and Stripe REST APIs for secure and seamless donation processing, increasing donation volume by 25% and enhancing user trust in the platform.</li>
     <li>Led technical improvements by integrating AWS S3 for video and graphic content storage, enabling faster retrieval and rendering, and enhancing website interactivity while reducing media load times by 30%.</li>
     <li>Redesigned and optimized platform styling by transitioning from traditional CSS to Tailwind CSS, achieving a 40% reduction in development time while delivering a consistent, responsive, and user-friendly interface using utility-first design principles.</li>
+    <li> Established CI/CD workflows using GitHub Actions, automating deployments and ensuring consistent code quality and faster feature delivery.</li>
 </ul>`,
     technologies: ["HTML", "Tailwind CSS ", "React.js", "Node.js", "Express", "MongoDB", "MySQL", "PayPal RESTful API Services", "Stripe RESTful API Services", "AWS S3"],
   },
